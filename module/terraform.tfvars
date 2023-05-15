@@ -1,0 +1,14 @@
+Name            = ["Swara-1", "Swara-2"]
+AppName         = "Swaranjal"
+Acc_id          = 3931820
+Pol_name        = null
+r_url           = null
+I_preference    = "PER_POLICY"
+C_id            = null
+A_W_threshold   = 0.8
+A_C_threshold   = 0.7
+A_duration      = 300
+A_t             = 0.4
+E_R_W_threshold = 2
+E_R_C_threshold = 5
+E_R_duration    = 300
